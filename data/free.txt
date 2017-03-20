@@ -133,6 +133,7 @@ algeria.com
 alhilal.net
 alibaba.com
 alice.it
+alicedsl.de
 alive.cz
 aliyun.com
 allergist.com
@@ -437,6 +438,7 @@ check1check.com
 cheerful.com
 chef.net
 chek.com
+chello.at
 chello.nl
 chemist.com
 cheyenneweb.com
@@ -3767,6 +3769,7 @@ swissmail.net
 switchboardmail.com
 sx172.com
 syom.com
+t-online.de
 t.psh.me
 t2mail.com
 tafmail.com
